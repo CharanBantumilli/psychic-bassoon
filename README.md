@@ -1,2 +1,0 @@
-# psychic-bassoon
-WeMakeDev
